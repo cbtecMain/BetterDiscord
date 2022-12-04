@@ -1,6 +1,5 @@
 <h1>Legacy Font</h1>
-Returns the original Discord Font.
-Removes GG Sans
+Returns the original Discord Font, removes GG Sans
 
 <h2>Installation</h2>
 <h3>Step 1: Download the Raw file <a href="https://github.com/cbtecMain/BetterDiscord/blob/a03105f8722fb01f1419f9c71a0abb048b58cf00/Legacy%20Font/LegacyFont.plugin.js">here</a></h3>
