@@ -52,27 +52,9 @@ module.exports = !global.ZeresPluginLibrary ? Dummy : (([Plugin, Api]) => {
 
     const { Patcher, WebpackModules } = Library;
 
-    return class SpotifyListenAlong extends Plugin {
+    return class LegacyFont extends Plugin {
         constructor() {
             super();
-        }
-
-        onStart() {
-            const DeviceStore = WebpackModules.getByProps('getActiveSocketAndDevice');   
-            if (DeviceStore?.getActiveSocketAndDevice) {
-                Patcher.after(
-                    DeviceStore,
-                    'getActiveSocketAndDevice',
-                    (_, args, ret) => {
-                        if ( ret?.socket ) ret.socket.isPremium = true;
-                        return ret;
-                    }
-                );
-            }
-        }
-
-        onStop() {
-            Patcher.unpatchAll()
         }
     };
 
