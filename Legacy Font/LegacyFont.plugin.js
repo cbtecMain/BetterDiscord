@@ -3,8 +3,8 @@
  * @description This plugin is designed to return the legacy font that Discord used before the update (Uni Sans)
  * @version 1.1.0
  * @author cbtec
- * @website https://github.com/cbtecMain/BetterDiscord/tree/main
- * @source https://raw.githubusercontent.com/cbtecMain/BetterDiscord/main/oldfont.plugin.js
+ * @website https://github.com/cbtecMain/BetterDiscord/tree/main/Legacy%20Font
+ * @source https://raw.githubusercontent.com/cbtecMain/BetterDiscord/main/Legacy%20Font/LegacyFont.plugin.js
  */
 
 console.log("Font: GG Sans => Whitney")
