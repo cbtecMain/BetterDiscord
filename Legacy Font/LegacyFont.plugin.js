@@ -1,6 +1,6 @@
 /**
  * @name Legacy Font
- * @description This plugin is designed to return the legacy font that Discord used before the update (Uni Sans)
+ * @description This plugin is designed to return the legacy font that Discord used before the update (Whitney)
  * @version 1.1.0
  * @author cbtec
  * @website https://github.com/cbtecMain/BetterDiscord/tree/main/Legacy%20Font
@@ -27,7 +27,7 @@ console.log("Font: GG Sans => Whitney")
   document.head.appendChild(style);
 
 
-const config = {"info":{"name":"Legacy Font","authors":[{"name":"cbtec","github_username":"cbtecMain"}],"version":"1.1.0","description":"This plugin is designed to return the legacy font that Discord used before the update (Uni Sans)","github":"https://github.com/cbtecMain/BetterDiscord/tree/main","github_raw":"https://raw.githubusercontent.com/cbtecMain/BetterDiscord/main/oldfont.plugin.js"},"changelog":[{"title":"v1.0.1","items":["Plugin compiles correctly after the new font update."]}],"main":"index.js"};
+const config = {"info":{"name":"Legacy Font","authors":[{"name":"cbtec","github_username":"cbtecMain"}],"version":"1.1.0","description":"This plugin is designed to return the legacy font that Discord used before the update (Whitney)","github":"https://github.com/cbtecMain/BetterDiscord/tree/main","github_raw":"https://raw.githubusercontent.com/cbtecMain/BetterDiscord/main/oldfont.plugin.js"},"changelog":[{"title":"v1.0.1","items":["Plugin compiles correctly after the new font update."]}],"main":"index.js"};
 class Dummy {
     constructor() {this._config = config;}
     start() {}
