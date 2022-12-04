@@ -1,5 +1,5 @@
 <h1>Legacy Font</h1>
-Returns the original Discord Font, removes GG Sans
+Returns the original Discord Font, removes GG Sans.
 
 <h2>Installation</h2>
 <h3>Step 1: Download the Raw file <a href="https://raw.githubusercontent.com/cbtecMain/BetterDiscord/a03105f8722fb01f1419f9c71a0abb048b58cf00/Legacy%20Font/LegacyFont.plugin.js">here</a></h3>
@@ -23,6 +23,7 @@ Search for "LegacyFonts" and turn the switch to green.<br>
 <img src="https://cdn.discordapp.com/attachments/675461065697394698/1049046077401223359/image.png"></img>
 <h3>Step 5: Successful Install</h3>
 It's as easy as that! The font should be reverted to the old style!
+<h2>Comparisons</h2>
 <h3>GG Sans (Updated)</h3>
 <img src="https://cdn.discordapp.com/attachments/675461065697394698/1049046674309402635/image.png">
 <h3>Whitney (Original)</h3>
