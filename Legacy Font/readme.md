@@ -1,6 +1,13 @@
+<h1>IMPORTANT!!!</h1>
+<h2 style="color: #D52424">This plugin has been discontinued and no longer functions.</h2>
+<h2>This page remains for users that already have the plugin installed.</h2>
+<h3>If this includes you, please remove the plugin to avoid issues with future Discord Versions.</h3>
+
+
+
 <h1>Legacy Font</h1>
 Returns the original Discord Font, removes GG Sans.
-
+<!--
 <h2>Installation</h2>
 <h3>Step 1: Download the Raw file <a href="https://raw.githubusercontent.com/cbtecMain/BetterDiscord/a03105f8722fb01f1419f9c71a0abb048b58cf00/Legacy%20Font/LegacyFont.plugin.js">here</a></h3>
 If the download does not start automatically, right click the tab and "Save as" <br>
@@ -27,4 +34,4 @@ It's as easy as that! The font should be reverted to the old style!
 <h3>GG Sans (Updated)</h3>
 <img src="https://cdn.discordapp.com/attachments/675461065697394698/1049046674309402635/image.png">
 <h3>Whitney (Original)</h3>
-<img src="https://cdn.discordapp.com/attachments/675461065697394698/1049046823987314811/image.png">
+<img src="https://cdn.discordapp.com/attachments/675461065697394698/1049046823987314811/image.png">-->
